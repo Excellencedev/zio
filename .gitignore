@@ -37,3 +37,5 @@ website/yarn-error.log
 website/ecosystem-sidebar.js
 .bsp/
 .vscode
+config.bat
+node_modules
